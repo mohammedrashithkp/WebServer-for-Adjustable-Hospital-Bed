@@ -2,6 +2,8 @@
 
 This project allows you to control three motors connected to an ESP32 using a web interface. The motors are controlled via PWM and direction pins, and the web interface enables commands like stopping the motors or moving them up and down.
 
+![](./assets/esp32-motor-control.png)
+
 ## Hardware Requirements
 - ESP32 microcontroller
 - DC Motors (3x)
